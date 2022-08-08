@@ -12,4 +12,4 @@ In this project i built Restaurant-Home page using the below `tech stack`
 
 ![project-02](./assets/project-02.png)
 
-Live-link: [Food-Restaurant](https://food-restaurant-project-03.netlify.app/)
+Live-link: [Food-Restaurant](https://food-restaurant-home-project-02.netlify.app/)
