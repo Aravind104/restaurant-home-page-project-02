@@ -11,3 +11,5 @@ In this project i built Restaurant-Home page using the below `tech stack`
 > Here's the glimpse pic of page
 
 ![project-02](./assets/project-02.png)
+
+Live-link: [Food-Restaurant](https://food-restaurant-project-03.netlify.app/)
